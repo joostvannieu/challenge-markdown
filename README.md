@@ -24,4 +24,4 @@ Having lost my finger to a rabbit's bite I happily replied: " rabbits eat carrot
 ### TL;DR
 Rabbits eat carrots and spit blood.
 
-[<< previous]() || [Joost Vannieuwenhuyse](#) || [next >>]()
+[<< previous]() || [Joost Vannieuwenhuyse](#) || [next >>](https://github.com/janvdv96/challenge-repository-janvdv/blob/master/README.md)
