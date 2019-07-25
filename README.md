@@ -1,5 +1,5 @@
 # Joost Vannieuwenhuyse
-*a few moments to lear, a lifetime to master*
+*a few moments to learn, a lifetime to master*
 
 ![profile image](https://media.licdn.com/dms/image/C4E03AQGcB0UddO_log/profile-displayphoto-shrink_100_100/0?e=1569456000&v=beta&t=4pOWJ-Ue8ls4bGT7pmIHmVVdu_DBPyekaHt2WWga1lU)
 
